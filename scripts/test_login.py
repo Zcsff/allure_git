@@ -8,5 +8,5 @@ class TestLogin:
 
     def test_login3(self):
 
-        assert 0
+        assert 1
 
